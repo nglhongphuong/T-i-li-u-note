@@ -80,4 +80,3 @@ Nội dung ghi chú githuub
 
 ---
 
-Bạn có muốn mình mở rộng thêm hoặc giải thích nội dung trong video này không? 😊
